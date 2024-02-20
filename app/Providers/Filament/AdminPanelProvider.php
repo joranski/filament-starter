@@ -97,6 +97,7 @@ class AdminPanelProvider extends PanelProvider
                 \BezhanSalleh\FilamentShield\FilamentShieldPlugin::make(),
                 \BezhanSalleh\FilamentExceptions\FilamentExceptionsPlugin::make(),
                 \Filament\SpatieLaravelTranslatablePlugin::make(),
+		\Croustibat\FilamentJobsMonitor\FilamentJobsMonitorPlugin::make(),
                 // \ChrisReedIO\Socialment\SocialmentPlugin::make()
                 //     ->registerProvider('google', 'fab-google', '')
                 \Jeffgreco13\FilamentBreezy\BreezyCore::make()

@@ -71,3 +71,7 @@ php artisan migrate
 ```
 
 Please view these packages that are required to get them to work
+
+consider these packages:
+https://github.com/pboivin/filament-peek
+https://github.com/z3d0x/filament-logger
